@@ -26,8 +26,6 @@ CodSoft has provided an environment where learning and growth are prioritized. T
 
 ![Image](https://github.com/user-attachments/assets/b14bbd76-6643-4d0d-909f-4273e33d6afa)
 
-![Image](https://github.com/user-attachments/assets/97adbb4b-7fec-41aa-9332-bf24f07e8ca6)
-
 ![Image](https://github.com/user-attachments/assets/896febf9-e36d-4464-aca4-48d38d1da45c)
 
 ![Image](https://github.com/user-attachments/assets/7f798a57-3fc0-41aa-8c50-63c9bd5f3268)
@@ -35,3 +33,5 @@ CodSoft has provided an environment where learning and growth are prioritized. T
 ![Image](https://github.com/user-attachments/assets/7089e92e-3ba1-4375-9218-edd62b197817)
 
 ![Image](https://github.com/user-attachments/assets/a4170a72-9ccd-48b2-a053-315a7673399b)
+
+![Image](https://github.com/user-attachments/assets/97adbb4b-7fec-41aa-9332-bf24f07e8ca6)
